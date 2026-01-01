@@ -3,13 +3,16 @@
 <img width="904" height="383" alt="image" src="https://github.com/user-attachments/assets/976ef081-d3b4-4b1f-894e-0673196bb746" />
 
 <img width="881" height="366" alt="image" src="https://github.com/user-attachments/assets/44b4c0fa-d46c-4ad3-98fb-a4e213a3c77f" />
+<img width="1917" height="774" alt="image" src="https://github.com/user-attachments/assets/5f384a15-5728-417e-b11c-65bd0dda7132" />
+<img width="1176" height="460" alt="image" src="https://github.com/user-attachments/assets/3772a845-7e51-4335-bebb-c11ba5405ef7" />
 
 
-להלן **דוח הסבר קצר ומסודר** המתאים להצגה כחלק מקורס תכנות / משחקים, עם **התמקדות ב-JavaScript** ובמה שנלמד דרך בניית המשחק 👇
+
+
 
 ---
 
-## 📄 דוח הסבר – משחק “תפוס חרקים” (JavaScript)
+#הסבר – משחק “תפוס חרקים” (JavaScript)
 
 ### 🎮 תיאור קצר של המשחק
 
